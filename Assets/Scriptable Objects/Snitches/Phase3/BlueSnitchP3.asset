@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a85c0af374b87fa4aa252579c57d7688, type: 3}
+  m_Name: BlueSnitchP3
+  m_EditorClassIdentifier: 
+  snitchPrefab: {fileID: 5321081946292010650, guid: e0ad50a01f64e2c49aab27d2f30b8b7a,
+    type: 3}
+  snitchRoute: {fileID: 613689996707820850, guid: 04ef0bb5e24127a46a26a0212d685112,
+    type: 3}
+  moveSpeed: 8
+  numberOfSnitches: 1

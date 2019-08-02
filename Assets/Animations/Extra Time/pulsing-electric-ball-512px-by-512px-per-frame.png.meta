@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 117933956cbbcc744bf8c9bc82201b96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4246576306133070021
+    second: pulsing-electric-ball-512px-by-512px-per-frame_0
+  - first:
+      213: 3941253560470004929
+    second: pulsing-electric-ball-512px-by-512px-per-frame_1
+  - first:
+      213: 5259415473657570950
+    second: pulsing-electric-ball-512px-by-512px-per-frame_2
+  - first:
+      213: -7370171230387095761
+    second: pulsing-electric-ball-512px-by-512px-per-frame_3
+  - first:
+      213: 2620362321687216822
+    second: pulsing-electric-ball-512px-by-512px-per-frame_4
+  - first:
+      213: -5329831836165044094
+    second: pulsing-electric-ball-512px-by-512px-per-frame_5
+  - first:
+      213: 1011442168731827576
+    second: pulsing-electric-ball-512px-by-512px-per-frame_6
+  - first:
+      213: 3467370167646239052
+    second: pulsing-electric-ball-512px-by-512px-per-frame_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pulsing-electric-ball-512px-by-512px-per-frame_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 580
+        width: 465
+        height: 438
+      alignment: 9
+      pivot: {x: 0.40168962, y: 0.41109157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b531648d0a616f14d82bbb3d6a215a09
+      internalID: -4246576306133070021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsing-electric-ball-512px-by-512px-per-frame_1
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 580
+        width: 465
+        height: 438
+      alignment: 9
+      pivot: {x: 0.40533066, y: 0.4033603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1a9cda9472cf849bea28db8ac2aea7
+      internalID: 3941253560470004929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsing-electric-ball-512px-by-512px-per-frame_2
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 580
+        width: 465
+        height: 438
+      alignment: 9
+      pivot: {x: 0.4817942, y: 0.43041936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c676c192d32a9e449b77ebf85104661
+      internalID: 5259415473657570950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsing-electric-ball-512px-by-512px-per-frame_3
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 582
+        width: 465
+        height: 438
+      alignment: 9
+      pivot: {x: 0.4708706, y: 0.41495714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0c8522aa5d54346b7e8584f49a2e21
+      internalID: -7370171230387095761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsing-electric-ball-512px-by-512px-per-frame_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 12
+        width: 472
+        height: 438
+      alignment: 9
+      pivot: {x: 0.5215227, y: 0.5347901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8550bd7e1c22d1489a7c12467135456
+      internalID: 2620362321687216822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsing-electric-ball-512px-by-512px-per-frame_5
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 12
+        width: 470
+        height: 438
+      alignment: 9
+      pivot: {x: 0.53242135, y: 0.54252124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddddf1ea360d054dbe58a9231f89c0e
+      internalID: -5329831836165044094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsing-electric-ball-512px-by-512px-per-frame_6
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 68
+        width: 465
+        height: 438
+      alignment: 9
+      pivot: {x: 0.3980482, y: 0.4149572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f229403086577d640bd4fb2efa7baf9b
+      internalID: 1011442168731827576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsing-electric-ball-512px-by-512px-per-frame_7
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 68
+        width: 444
+        height: 438
+      alignment: 9
+      pivot: {x: 0.41991967, y: 0.41495734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f027f1b60063a544291cab1e349e2d28
+      internalID: 3467370167646239052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6fc87025aa0558c4fa372c2f2647e4e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

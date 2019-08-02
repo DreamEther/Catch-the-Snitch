@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd866fa2e4505a24cb3601ff93ce2989, type: 3}
+  m_Name: Colors
+  m_EditorClassIdentifier: 
+  colors:
+  - name: Red
+    color: {r: 1, g: 0, b: 0.01667595, a: 1}
+  - name: Green
+    color: {r: 0.13679248, g: 1, b: 0.19785021, a: 1}
+  - name: Blue
+    color: {r: 0, g: 0.10700178, b: 1, a: 1}
+  - name: Pink
+    color: {r: 1, g: 0, b: 0.7777777, a: 1}
+  - name: Purple
+    color: {r: 0.60985214, g: 0, b: 0.7264151, a: 1}

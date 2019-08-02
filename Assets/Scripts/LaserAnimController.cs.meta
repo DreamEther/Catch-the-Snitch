@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 79ea3482c47a0fd4aa45172403df8280
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - laserCharging: {fileID: 8300000, guid: 0b2e926c1d3926b4a81995bdf961b66b, type: 3}
+  - anim: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

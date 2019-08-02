@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a85c0af374b87fa4aa252579c57d7688, type: 3}
+  m_Name: RedSnitchP4
+  m_EditorClassIdentifier: 
+  snitchPrefab: {fileID: 8902198005755048174, guid: 49d43dbb638719441a29ce623d7ea652,
+    type: 3}
+  snitchRoute: {fileID: 1463849903592797066, guid: c9a4345e20418c94dab2e86b4b16d043,
+    type: 3}
+  moveSpeed: 9
+  numberOfSnitches: 1

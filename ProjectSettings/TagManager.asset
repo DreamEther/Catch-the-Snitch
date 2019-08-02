@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 'Destructible '
+  - Laser
+  - Ship
+  - waypoint
+  - game state
+  - snitch
+  - player
+  - enemy
+  - UI
+  - orb
+  - extra time
+  - orb ui
+  - charging laser
+  - blue snitch
+  - red snitch
+  - green snitch
+  - missile
+  - force field
+  - enemy laser
+  - mutant ship
+  - mutant beam
+  - background
+  - boundary
+  - spike laser
+  - spike laser left
+  - spike laser right
+  - purple snitch
+  - yellow snitch
+  - black snitch
+  - pink snitch
+  - angel 1
+  - angel 2
+  - angel 3
+  - angel 4
+  - orb lightning
+  - blue heavy
+  - orange heavy
+  - green heavy
+  - pink heavy
+  - cluster projectile
+  - Laser Left
+  - Laser Right
+  - 'health bar '
+  - lightning anim
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Player Laser
+  - Enemy Laser
+  - snitch
+  - projectiles
+  - lightning
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 385402731
+    locked: 0
